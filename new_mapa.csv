@@ -1,0 +1,405 @@
+region,0
+columbus,3608
+jacksonville,3562
+spokane / coeur d'alene,2988
+eugene,2985
+fresno / madera,2983
+orlando,2983
+omaha / council bluffs,2982
+bend,2982
+new hampshire,2981
+kennewick-pasco-richland,2981
+nashville,2980
+salem,2980
+oklahoma city,2979
+reno / tahoe,2979
+rochester,2978
+boston,2978
+sarasota-bradenton,2977
+stockton,2977
+boise,2976
+portland,2976
+houston,2975
+south jersey,2974
+seattle-tacoma,2973
+minneapolis / st paul,2973
+modesto,2973
+philadelphia,2973
+grand rapids,2972
+pittsburgh,2971
+las vegas,2971
+milwaukee,2971
+baltimore,2971
+"washington, DC",2970
+tulsa,2970
+cincinnati,2970
+sacramento,2970
+tucson,2969
+austin,2969
+north jersey,2969
+charlotte,2968
+maine,2966
+atlanta,2965
+hawaii,2964
+long island,2964
+central NJ,2961
+phoenix,2960
+detroit metro,2959
+dallas / fort worth,2957
+"kansas city, MO",2957
+ft myers / SW florida,2955
+cleveland,2953
+san diego,2953
+albuquerque,2952
+orange county,2952
+denver,2952
+new york city,2950
+inland empire,2950
+norfolk / hampton roads,2946
+tampa bay area,2945
+"st louis, MO",2940
+los angeles,2937
+SF bay area,2936
+chicago,2929
+des moines,2923
+south florida,2920
+raleigh / durham / CH,2918
+colorado springs,2914
+san antonio,2891
+knoxville,2763
+anchorage / mat-su,2742
+hartford,2564
+albany,2537
+bakersfield,2528
+redding,2526
+springfield,2520
+ventura county,2518
+vermont,2513
+fayetteville,2415
+madison,2387
+fort collins / north CO,2385
+richmond,2346
+greenville / upstate,2327
+rhode island,2320
+bellingham,2313
+indianapolis,2303
+akron / canton,2211
+greensboro,2078
+western massachusetts,2039
+buffalo,2006
+palm springs,1978
+el paso,1977
+medford-ashland,1962
+louisville,1938
+worcester / central MA,1914
+little rock,1841
+ocala,1828
+dayton / springfield,1787
+yuba-sutter,1747
+memphis,1724
+yakima,1704
+billings,1701
+wichita,1694
+hudson valley,1692
+birmingham,1647
+new haven,1644
+daytona beach,1633
+charleston,1509
+chico,1486
+san luis obispo,1455
+monterey bay,1451
+asheville,1423
+toledo,1406
+columbia,1388
+missoula,1378
+lansing,1367
+jackson,1351
+space coast,1346
+syracuse,1338
+fredericksburg,1328
+wenatchee,1324
+new orleans,1321
+huntsville / decatur,1273
+lehigh valley,1261
+appleton-oshkosh-FDL,1261
+flint,1258
+columbia / jeff city,1257
+bozeman,1249
+kalamazoo,1236
+western slope,1188
+corpus christi,1176
+treasure coast,1173
+corvallis/albany,1168
+roanoke,1121
+lexington,1115
+tri-cities,1110
+ann arbor,1085
+rockford,1059
+east idaho,1052
+santa barbara,1052
+lakeland,1048
+myrtle beach,1043
+chattanooga,1038
+green bay,1033
+winston-salem,1027
+mcallen / edinburg,1019
+scranton / wilkes-barre,1008
+moses lake,994
+tyler / east TX,992
+lancaster,988
+kalispell,978
+harrisburg,976
+wilmington,975
+south bend / michiana,969
+fargo / moorhead,969
+st cloud,954
+delaware,949
+gainesville,926
+visalia-tulare,922
+eastern NC,895
+flagstaff / sedona,881
+saginaw-midland-baycity,876
+hickory / lenoir,853
+eau claire,846
+jersey shore,838
+erie,805
+santa fe / taos,801
+twin falls,794
+fort wayne,788
+clarksville,785
+york,777
+tallahassee,771
+gold country,765
+duluth / superior,763
+kenosha-racine,757
+pueblo,746
+prescott,746
+santa maria,740
+baton rouge,733
+wausau,726
+east oregon,720
+olympic peninsula,717
+lewiston / clarkston,710
+skagit / island / SJI,701
+boulder,694
+oregon coast,694
+"quad cities, IA/IL",687
+macon / warner robins,687
+waco,681
+winchester,672
+youngstown,664
+killeen / temple / ft hood,662
+merced,654
+cedar rapids,648
+south coast,645
+charlottesville,642
+battle creek,639
+mobile,626
+pensacola,622
+sioux falls / SE SD,621
+northern michigan,612
+wyoming,610
+utica-rome-oneida,607
+athens,607
+lincoln,604
+cape cod / islands,598
+pullman / moscow,595
+wichita falls,589
+eastern CT,583
+topeka,582
+amarillo,564
+southern illinois,555
+waterloo / cedar falls,555
+holland,534
+brainerd,533
+monroe,530
+great falls,524
+la crosse,521
+savannah / hinesville,516
+rapid city / west SD,502
+lynchburg,496
+lubbock,492
+salt lake city,485
+lima / findlay,485
+augusta,480
+southwest michigan,476
+binghamton,474
+muskegon,473
+poconos,464
+north mississippi,462
+central michigan,461
+mankato,445
+finger lakes,439
+mohave county,435
+odessa / midland,433
+peoria,432
+danville,427
+fairbanks,427
+shreveport,422
+reading,416
+bowling green,415
+northwest GA,415
+watertown,414
+evansville,413
+montgomery,408
+southern maryland,405
+northwest CT,397
+sioux city,393
+humboldt county,385
+elmira-corning,379
+harrisonburg,375
+eastern shore,368
+bemidji,365
+altoona-johnstown,364
+st george,362
+williamsport,362
+brownsville,361
+mansfield,359
+las cruces,358
+port huron,358
+upper peninsula,355
+janesville,343
+klamath falls,343
+boone,338
+jonesboro,337
+laredo,337
+yuma,335
+st augustine,328
+joplin,328
+fort smith,327
+dothan,325
+florence,324
+st joseph,323
+zanesville / cambridge,313
+college station,313
+morgantown,307
+ithaca,303
+panama city,298
+roseburg,294
+frederick,288
+beaumont / port arthur,287
+the thumb,286
+annapolis,285
+western maryland,285
+texoma,284
+imperial county,282
+champaign urbana,281
+sheboygan,281
+new river valley,275
+glens falls,274
+ashtabula,270
+northern panhandle,268
+parkersburg-marietta,264
+northern WI,262
+valdosta,262
+lafayette / west lafayette,260
+chillicothe,257
+plattsburgh-adirondacks,256
+helena,255
+southwest VA,254
+iowa city,253
+manhattan,251
+eastern panhandle,251
+muncie / anderson,248
+southeast missouri,245
+sandusky,244
+victoria,243
+sierra vista,241
+mendocino county,238
+lake of the ozarks,236
+abilene,235
+north central FL,230
+dubuque,228
+galveston,225
+kenai peninsula,221
+chautauqua,221
+mason city,217
+bloomington,217
+bloomington-normal,217
+eastern kentucky,213
+grand island,212
+western KY,212
+texarkana,211
+state college,210
+lawton,207
+gadsden-anniston,207
+florida keys,203
+lawrence,199
+terre haute,198
+stillwater,198
+ames,194
+okaloosa / walton,194
+grand forks,192
+cookeville,189
+brunswick,187
+hilton head,186
+cumberland valley,179
+san marcos,179
+lafayette,179
+hanford-corcoran,178
+meadville,177
+southeast IA,175
+decatur,171
+heartland florida,170
+high rockies,169
+salina,168
+florence / muscle shoals,165
+tuscaloosa,162
+san angelo,161
+mattoon-charleston,156
+lake charles,156
+kokomo,156
+tuscarawas co,154
+logan,152
+catskills,147
+northwest OK,145
+northwest KS,143
+auburn,142
+statesboro,140
+owensboro,140
+farmington,136
+twin tiers NY/PA,136
+butte,134
+central louisiana,132
+gulfport / biloxi,127
+north dakota,126
+elko,120
+susanville,119
+southeast KS,119
+kirksville,119
+huntington-ashland,118
+scottsbluff / panhandle,117
+la salle co,116
+show low,112
+outer banks,109
+del rio / eagle pass,108
+potsdam-canton-massena,102
+roswell / carlsbad,100
+hattiesburg,99
+southwest KS,96
+bismarck,92
+south dakota,90
+houma,88
+deep east texas,88
+fort dodge,87
+southeast alaska,84
+siskiyou county,83
+north platte,80
+clovis / portales,78
+ogden-clearfield,76
+eastern montana,75
+provo / orem,75
+western IL,63
+oneonta,62
+southwest MN,56
+pierre / central SD,55
+eastern CO,40
+southern WV,36
+st louis,35
+northeast SD,34
+southwest TX,30
+meridian,28
+southwest MS,14
+kansas city,11
+"fort smith, AR",9
+west virginia (old),8

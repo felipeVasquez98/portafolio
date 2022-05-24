@@ -1,0 +1,405 @@
+region,total,lat,lon
+columbus,3608,33.508,-88.4136
+jacksonville,3562,30.337,-81.6613
+spokane / coeur d'alene,2988,47.702465,-116.796883
+eugene,2985,44.0567,-123.116
+fresno / madera,2983,37.23722,-119.77417
+orlando,2983,28.4159,-81.2988
+omaha / council bluffs,2982,41.25861,-95.93779
+bend,2982,44.0564,-121.308
+new hampshire,2981,40.5498,-83.9501
+kennewick-pasco-richland,2981,46.1983,-119.174
+nashville,2980,36.1718,-86.785
+salem,2980,44.9429,-123.0351
+oklahoma city,2979,35.4671,-97.5137
+reno / tahoe,2979,39.52963,-119.8138
+rochester,2978,43.1699,-77.6169
+boston,2978,42.332,-71.0202
+sarasota-bradenton,2977,27.3369,-82.5459
+stockton,2977,37.9766,-121.309
+boise,2976,43.6135,-116.20345
+portland,2976,45.52345,-122.67621
+houston,2975,29.7805,-95.3863
+south jersey,2974,40.8648,-74.0481
+seattle-tacoma,2973,47.60621,-122.33207
+minneapolis / st paul,2973,44.97997,-93.26384
+modesto,2973,37.6609,-120.989
+philadelphia,2973,40.0094,-75.1333
+grand rapids,2972,42.9612,-85.6556
+pittsburgh,2971,40.4398,-79.9768 
+las vegas,2971,36.17497,-115.13722
+milwaukee,2971,43.0124,-87.971
+baltimore,2971,39.3002,-76.6105
+"washington, DC",2970,38.9041,-77.0171
+tulsa,2970,36.1279,-95.9023
+cincinnati,2970,39.1399,-84.5064
+sacramento,2970,38.5666,-121.469
+tucson,2969,32.1543,-110.871
+austin,2969,30.26715,-97.74306
+north jersey,2969,40.73566,-74.17237
+charlotte,2968,35.2062,-80.8326
+maine,2966,42.2053,-76.0258
+atlanta,2965,33.7629,-84.4227
+hawaii,2964,21.3143,-157.805
+long island,2964,43.6885,-70.1609
+central NJ,2961,39.833851,-74.871826
+phoenix,2960,33.44838,-112.07404
+detroit metro,2959,42.383,-83.1022
+dallas / fort worth,2957,32.7942,-96.7655
+"kansas city, MO",2957,39.1225,-94.7418
+ft myers / SW florida,2955,26.619,-81.832
+cleveland,2953,41.4995,-81.69541
+san diego,2953,32.8153,-117.135
+albuquerque,2952,35.08449,-106.65114
+orange county,2952,33.8048, -117.825
+denver,2952,39.7618,-104.881
+new york city,2950,40.6643,-73.9385
+inland empire,2950,37.09024,-95.712891
+norfolk / hampton roads,2946,37.048,-76.2971
+tampa bay area,2945,27.94752,-82.45843
+"st louis, MO",2940,38.62727,-90.19789
+los angeles,2937,34.0194,-118.411
+SF bay area,2936,37.7272,-123.032
+chicago,2929,41.8379,-87.6828
+des moines,2923,41.5533,-93.7598
+south florida,2920,25.761681,-80.191788
+raleigh / durham / CH,2918,35.787743,-78.644257
+colorado springs,2914,38.83388,-104.82136
+san antonio,2891,29.42412,-98.49363
+knoxville,2763,35.96064,-83.92074
+anchorage / mat-su,2742,61.1775,-149.274
+hartford,2564,41.7614,-72.6153
+albany,2537,42.6657,-73.7984
+bakersfield,2528,35.3212,-119.018
+redding,2526,40.5674,-122.365
+springfield,2520,37.21533,-93.29824
+ventura county,2518,34.2681,-119.255
+vermont,2513,44.4667,-73.15
+fayetteville,2415,35.0851,-78.9803
+madison,2387,43.0878,-89.4301
+fort collins / north CO,2385,40.5509,-105.064
+richmond,2346,37.5314,-77.476
+greenville / upstate,2327,34.8369,-82.363
+rhode island,2320,41.8239,-71.4178
+bellingham,2313,48.7499,-122.47
+indianapolis,2303,39.76838,-86.15804
+akron / canton,2211,41.0805,-81.5214
+greensboro,2078,36.0948,-79.8236
+western massachusetts,2039,42.1255,-72.6497
+buffalo,2006,42.8925,-78.8597
+palm springs,1978,33.8007,-116.537
+el paso,1977,31.8484,-106.427
+medford-ashland,1962,42.326515,-122.875595
+louisville,1938,38.25424,-85.75941
+worcester / central MA,1914,42.2695,-71.8078
+little rock,1841,34.7251,-92.3606
+ocala,1828,29.1803,-82.1488
+dayton / springfield,1787,39.758949,-84.191605
+yuba-sutter,1747,39.1339,-121.639
+memphis,1724,35.14953,-90.04898
+yakima,1704,46.5922,-120.547
+billings,1701,45.7895,-108.55
+wichita,1694,37.6907,-97.3427
+hudson valley,1692,42.2519,-73.786
+birmingham,1647,33.5275,-86.7955
+new haven,1644,41.3108,-72.9249
+daytona beach,1633,29.1973,-81.0881
+charleston,1509,32.8219,-79.9619
+chico,1486,39.7552,-121.819
+san luis obispo,1455,35.2685,-120.67
+monterey bay,1451,36.6013,-121.883
+asheville,1423,35.571,-82.5527
+toledo,1406,41.6641,-83.5819
+columbia,1388,38.9041,-77.0171
+missoula,1378,46.8705,-114.012
+lansing,1367,42.7098,-84.5562
+jackson,1351,43.3296,-88.1685
+space coast,1346,28.354206,-80.726021
+syracuse,1338,43.041,-76.1436
+fredericksburg,1328,38.2993,-77.4867
+wenatchee,1324,47.4256,-120.329
+new orleans,1321,30.0675,-89.9272
+huntsville / decatur,1273,34.7843,-86.539
+lehigh valley,1261,40.613953,-75.477791
+appleton-oshkosh-FDL,1261,44.02888,-88.16288
+flint,1258,43.0244,-83.692
+columbia / jeff city,1257,38.5675,-92.1753
+bozeman,1249,45.6832,-111.054
+kalamazoo,1236,42.2752,-85.5885
+western slope,1188,38.83388,-104.82136
+corpus christi,1176,27.80058,-97.39638
+treasure coast,1173,27.198,-80.2519
+corvallis/albany,1168,44.57,-123.278
+roanoke,1121,37.2778,-79.9585
+lexington,1115,33.9948,-81.2121
+tri-cities,1110,46.235,-119.223301
+ann arbor,1085,42.3148,-83.7091
+rockford,1059,42.2634,-89.0628
+east idaho,1052,44.068203,-114.742043
+santa barbara,1052,34.3989,-119.713
+lakeland,1048,28.056,-81.9537
+myrtle beach,1043,33.7106,-78.886
+chattanooga,1038,35.0665,-85.2471
+green bay,1033,44.5207,-87.9842
+winston-salem,1027,36.1033,-80.2606
+mcallen / edinburg,1019,26.2185,-98.2461
+scranton / wilkes-barre,1008,41.4042,-75.6659
+moses lake,994,47.1197,-119.277
+tyler / east TX,992,32.315,-95.3046
+lancaster,988,34.724,-80.7793
+kalispell,978,48.2162,-114.328
+harrisburg,976,40.2759,-76.885
+wilmington,975,39.74595,-75.54659
+south bend / michiana,969,41.6768,-86.269
+fargo / moorhead,969,46.8664,-96.8292
+st cloud,954,45.5275,-94.171
+delaware,949,40.2866,-83.0749
+gainesville,926,29.6834,-82.3433
+visalia-tulare,922,36.1994,-119.342
+eastern NC,895,35.782169,-80.793457
+flagstaff / sedona,881,35.1852,-111.621
+saginaw-midland-baycity,876,43.41947,-83.95081
+hickory / lenoir,853,35.7415,-81.3238
+eau claire,846,41.9839,-86.3038
+jersey shore,838,41.2022,-77.2665
+erie,805,42.1166,-80.0735
+santa fe / taos,801,35.68698,-105.9378
+twin falls,794,42.5641,-114.463
+fort wayne,788,41.0882,-85.1439
+clarksville,785,36.5728,-87.3454
+york,777,40.71427,-74.00597
+tallahassee,771,30.4551,-84.2534
+gold country,765,39.503821,-121.505328
+duluth / superior,763,46.7832,-92.1187
+kenosha-racine,757,42.5847,-87.8737
+pueblo,746,38.2691,-104.612
+prescott,746,34.5794,-112.448
+santa maria,740,34.9332,-120.444
+baton rouge,733,30.44332,-91.18747
+wausau,726,44.9619,-89.6435
+east oregon,720,44.00013,-120.50139
+olympic peninsula,717,47.750087,-123.751022
+lewiston / clarkston,710,46.3937,-116.994
+skagit / island / SJI,701,48.4171,-122.312
+boulder,694,40.0274,-105.252
+oregon coast,694,44.187126,-124.114609
+"quad cities, IA/IL",687,41.5541,-90.604
+macon / warner robins,687,32.5971,-83.6539
+waco,681,40.8969,-97.4615
+winchester,672,42.4528,-71.1443
+youngstown,664,41.0991,-80.6459
+killeen / temple / ft hood,662,31.0766,-97.7284
+merced,654,37.3057,-120.478
+cedar rapids,648,41.9664,-91.678
+south coast,645,34.05223,-118.24368
+charlottesville,642,38.0377,-78.4854
+battle creek,639,42.2992,-85.2293
+mobile,626,30.6684,-88.1002
+pensacola,622,30.4413,-87.1899
+sioux falls / SE SD,621,43.5383,-96.732
+northern michigan,612,46.86965,-96.747584
+wyoming,610,42.8926,-85.709
+utica-rome-oneida,607,43.0964,-75.226
+athens,607,33.9496,-83.3701
+lincoln,604,33.9496,-83.3701
+cape cod / islands,598,25.85944,-81.67639
+pullman / moscow,595,46.7328,-117.163
+wichita falls,589,33.91371,-98.49339
+eastern CT,583,41.7614,-72.6153
+topeka,582,39.0362,-95.6948
+amarillo,564,35.1978,-101.829
+southern illinois,555,37.7221,-89.2237
+waterloo / cedar falls,555,42.4923,-92.3519
+holland,534,42.7681,-86.0986
+brainerd,533,46.3553,-94.1984
+monroe,530,32.5188,-92.0785
+great falls,524,47.5014,-111.3
+la crosse,521,43.8259,-91.2242
+savannah / hinesville,516,31.827,-81.6217
+rapid city / west SD,502,44.0711,-103.218
+lynchburg,496,37.399,-79.1955
+lubbock,492,33.5665,-101.887
+salt lake city,485,40.7785,-111.931
+lima / findlay,485,40.7407,-84.1121
+augusta,480,44.3349,-69.7342
+southwest michigan,476,42.2752,-85.5885
+binghamton,474,42.1013,-75.9094
+muskegon,473,43.23418,-86.24839
+poconos,464,41.1225,-75.3578
+north mississippi,462,33.4156,-88.7433
+central michigan,461,48.025,-98.11705
+mankato,445,44.1706,-93.9795
+finger lakes,439,42.7238362,-76.9297354
+mohave county,435,36.9701,-112.985
+odessa / midland,433,31.8752,-102.346
+peoria,432,33.7877,-112.311
+danville,427,40.9616,-76.6121
+fairbanks,427,64.8365,-147.652
+shreveport,422,32.467,-93.7927
+reading,416,40.3392,-75.9263
+bowling green,415,36.9709,-86.4385
+northwest GA,415,32.75042,-83.50018
+watertown,414,43.9733,-75.91
+evansville,413,37.9877,-87.5347
+montgomery,408,32.3463,-86.2686
+southern maryland,405,39.045753,-76.641273
+northwest CT,397,41.3817,-72.8583
+sioux city,393,42.4999,-96.3922
+humboldt county,385,40.66667,-123.91667
+elmira-corning,379,42.1486,-77.0588
+harrisonburg,375,38.4352,-78.8722
+eastern shore,368,38.97278,-76.25667
+bemidji,365,47.4823,-94.882
+altoona-johnstown,364,40.5078,-78.4007
+st george,362,37.0759,-113.581
+williamsport,362,41.24119,-77.00108
+brownsville,361,26.0183,-97.4538
+mansfield,359,42.0173,-71.2173
+las cruces,358,32.3264,-106.79
+port huron,358,42.97086,-82.42491
+upper peninsula,355,45.7479,-87.0837
+janesville,343,42.6865,-89.0142
+klamath falls,343,42.2213,-121.775
+boone,338,36.2084,-81.668
+jonesboro,337,35.8197,-90.679
+laredo,337,27.5481,-99.4876
+yuma,335,32.72532,-114.6244
+st augustine,328,29.8959,-81.3116
+joplin,328,37.081,-94.5055
+fort smith,327,35.38592,-94.39855
+dothan,325,31.2337,-85.4068
+florence,324,43.98262,-124.09984
+st joseph,323,39.76861,-94.84663
+zanesville / cambridge,313,39.956,-82.0129
+college station,313,30.5886,-96.296
+morgantown,307,39.6377,-79.9464
+ithaca,303,42.4439,-76.5031
+panama city,298,30.2327,-85.8785
+roseburg,294,43.2223,-123.352
+frederick,288,39.4303,-77.4152
+beaumont / port arthur,287,29.88519,-93.94233
+the thumb,286,43.37917,-72.06278
+annapolis,285,38.9725,-76.5065
+western maryland,285,39.045753,-76.641273
+texoma,284,33.8320465,-96.5711046
+imperial county,282,32.8355,-115.572
+champaign urbana,281,40.1101,-88.1973
+sheboygan,281,43.746,-87.7305
+new river valley,275,37.1377082,-80.590641
+glens falls,274,43.3112,-73.6453
+ashtabula,270,41.8814,-80.7992
+northern panhandle,268,35.3456,-101.38044
+parkersburg-marietta,264,39.2614,-81.5434
+northern WI,262,43.458,-89.8539
+valdosta,262,30.8517,-83.2789
+lafayette / west lafayette,260,40.4552,-86.9118
+chillicothe,257,39.3387,-82.9941
+plattsburgh-adirondacks,256,44.6935,-73.456
+helena,255,46.5955,-112.019
+southwest VA,254,37,-81.0862
+iowa city,253,41.66113,-91.53017
+manhattan,251,40.78343,-73.96625
+eastern panhandle,251,35.3456,-101.38044
+muncie / anderson,248,40.191891,-85.401695
+southeast missouri,245,29.61857,-95.53772
+sandusky,244,41.4559,-82.7144
+victoria,243,44.863,-93.6544
+sierra vista,241,31.5654,-110.315
+mendocino county,238,39.15056,-123.20528
+lake of the ozarks,236,38.2009,-92.63
+abilene,235,38.9239,-97.2241
+north central FL,230,28.53834,-81.37924
+dubuque,228,42.5021,-90.7027
+galveston,225,29.1851,-94.9675
+kenai peninsula,221,60.5623,-151.208
+chautauqua,221,42.2261,-79.4839
+mason city,217,43.1486,-93.1998
+bloomington,217,44.8297,-93.3152
+bloomington-normal,217,40.4758,-88.9714
+eastern kentucky,213,37.839333,-84.27002
+grand island,212,40.929077,-98.368149
+western KY,212,37.0709,-88.6445
+texarkana,211,33.4363,-93.9871
+state college,210,40.791,-77.8568
+lawton,207,34.617,-98.4203
+gadsden-anniston,207,34.0096,-86.0156
+florida keys,203,24.691402,-81.189682
+lawrence,199,42.7003,-71.1614
+terre haute,198,39.4646,-87.3781
+stillwater,198,41.1523,-76.3766
+ames,194,42.0255,-93.6276
+okaloosa / walton,194,30.4247,-86.6203
+grand forks,192,47.9128,-97.075
+cookeville,189,36.1477,-85.5052
+brunswick,187,42.7492,-73.5897
+hilton head,186,32.1909,-80.7392
+cumberland valley,179,36.9842,-82.9867
+san marcos,179,8.65972,-75.12809
+lafayette,179,30.2113,-92.0284
+hanford-corcoran,178,36.327728,-119.645912
+meadville,177,41.6478,-80.1475
+southeast IA,175,41.66113,-91.53017
+decatur,171,34.573,-86.9917
+heartland florida,170,27.19,-81.2
+high rockies,169,37.88944,-102.89722
+salina,168,17.9782,-66.2954
+florence / muscle shoals,165,34.7432,-87.6338
+tuscaloosa,162,33.2331,-87.5258
+san angelo,161,31.4389,-100.452
+mattoon-charleston,156,39.4778,-88.3636
+lake charles,156,30.2027,-93.2147
+kokomo,156,40.4753,-86.1328
+tuscarawas co,154,40.3919,-81.3966
+logan,152,41.7403,-111.842
+catskills,147,42.2126,-73.8599
+northwest OK,145,34.3149,-78.1453
+northwest KS,143,39.1225,-94.7418
+auburn,142,32.6104,-85.4864
+statesboro,140,32.4412,-81.7745
+owensboro,140,37.7572,-87.1174
+farmington,136,42.9808,-77.3219
+twin tiers NY/PA,136,42.001859,-76.634849
+butte,134,45.896,-112.66
+central louisiana,132,30.39183,-92.329102
+gulfport / biloxi,127,30.4161,-89.0718
+north dakota,126,47.9128,-97.075
+elko,120,40.83242,-115.763123
+susanville,119,40.416283,-120.653008
+southeast KS,119,37.4146,-94.698
+kirksville,119,40.1947539,-92.5832496
+huntington-ashland,118,38.4107,-82.4347
+scottsbluff / panhandle,117,41.8681,-103.662
+la salle co,116,40.3487,-104.706
+show low,112,34.2368,-110.031
+outer banks,109,35.5584932,-75.4665158
+del rio / eagle pass,108,28.7114,-100.482
+potsdam-canton-massena,102,44.929,-74.893
+roswell / carlsbad,100,34.0232431,-84.3615555
+hattiesburg,99,31.3073,-89.3174
+southwest KS,96,37.7528,-100.01708
+bismarck,92,46.811,-100.769
+south dakota,90,44.5,-100
+houma,88,29.5786,-90.708
+deep east texas,88,30.89,-94.29
+fort dodge,87,42.5101,-94.1757
+southeast alaska,84,64.7801,-141.193
+siskiyou county,83,41.5927,-122.5404
+north platte,80,41.127,-100.764
+clovis / portales,78,34.4383,-103.189
+ogden-clearfield,76,41.223,-111.97383
+eastern montana,75,46.5888,-111.917
+provo / orem,75,40.2453,-111.645
+western IL,63,41.8023,-87.9006
+oneonta,62,33.9468,-86.4905
+southwest MN,56,44.8911,-93.3597
+pierre / central SD,55,44.36832,-100.35097
+eastern CO,40,38,-102
+southern WV,36,38.4758406,-80.8408415
+st louis,35,43.4085,-84.6112
+northeast SD,34,41.9458,-73.5272
+southwest TX,30,29.3213,-99.4695
+meridian,28,43.6179,-116.397
+southwest MS,14,32.1942,-90.27
+kansas city,11,39.1225,-94.7418
+"fort smith, AR",9,35.38592,-94.39855
+west virginia (old),8,39,-80.5
