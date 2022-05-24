@@ -1,4 +1,4 @@
-# portafolio
+# Portafolio
 
 Para observar el funcionamiento de los 2 casos de negocio, por favor descargar los archivos con las extensiones .ipybn (Jupyter Notebook) y demás archivos CSV para el correcto funcionamiento
 
